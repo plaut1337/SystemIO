@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MarsicRokoUsing\MarsicRokoUsing\obj\Debug\MarsicRokoUsing.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MarsicRokoUsing\MarsicRokoUsing\obj\Debug\MarsicRokoUsing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MarsicRokoUsing\MarsicRokoUsing\bin\Debug\MarsicRokoUsing.exe.config
+C:\Users\Admin\source\repos\MarsicRokoUsing\MarsicRokoUsing\bin\Debug\MarsicRokoUsing.exe
+C:\Users\Admin\source\repos\MarsicRokoUsing\MarsicRokoUsing\bin\Debug\MarsicRokoUsing.pdb
+C:\Users\Admin\source\repos\MarsicRokoUsing\MarsicRokoUsing\obj\Debug\MarsicRokoUsing.exe
+C:\Users\Admin\source\repos\MarsicRokoUsing\MarsicRokoUsing\obj\Debug\MarsicRokoUsing.pdb
