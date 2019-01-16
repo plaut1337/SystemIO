@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MarsicRokoStreamWriter\MarsicRokoStreamWriter\obj\Debug\MarsicRokoStreamWriter.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MarsicRokoStreamWriter\MarsicRokoStreamWriter\obj\Debug\MarsicRokoStreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MarsicRokoStreamWriter\MarsicRokoStreamWriter\bin\Debug\MarsicRokoStreamWriter.exe.config
+C:\Users\Admin\source\repos\MarsicRokoStreamWriter\MarsicRokoStreamWriter\bin\Debug\MarsicRokoStreamWriter.exe
+C:\Users\Admin\source\repos\MarsicRokoStreamWriter\MarsicRokoStreamWriter\bin\Debug\MarsicRokoStreamWriter.pdb
+C:\Users\Admin\source\repos\MarsicRokoStreamWriter\MarsicRokoStreamWriter\obj\Debug\MarsicRokoStreamWriter.exe
+C:\Users\Admin\source\repos\MarsicRokoStreamWriter\MarsicRokoStreamWriter\obj\Debug\MarsicRokoStreamWriter.pdb
